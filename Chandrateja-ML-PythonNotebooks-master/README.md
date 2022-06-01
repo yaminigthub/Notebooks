@@ -1,4 +1,4 @@
-# Chandrateja Reddy-ML-PythonNotebooks
+# ML-PythonNotebooks
 A Statistics postgraduate, a data science enthusiast. I love to see how the power of data analysis and machine learning techniques are solving the world's most critical issuses.
 
 
